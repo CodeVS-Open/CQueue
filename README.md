@@ -24,7 +24,9 @@
 
 消息分发
 
+### high performance
 
+1core 2Gb memroy ec2 可以承载 3w 连接量
 
 ---
 khala 意思是卡拉，源于星际争霸。
